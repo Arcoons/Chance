@@ -7,7 +7,11 @@
       width: 100vw;
       height: 100vh;
       background: rgb(4,87,128);
-      background: linear-gradient(171deg, rgb(250, 102, 3) 14%, rgb(239, 45, 6) 27%, rgba(20,19,17,1) 77%)
+      background: linear-gradient(171deg, rgb(7, 3, 250) 14%, rgb(253, 4, 4) 27%, rgba(20,19,17,1) 77%);
+}
+a{
+      text-decoration: none;
+      color: white ;
 }
 
 #mensaje {
@@ -37,7 +41,7 @@
             width: 100vw;
             height: 100vh;
             background: rgb(4,87,128);
-            background: linear-gradient(171deg, rgb(250, 102, 3) 14%, rgb(239, 45, 6) 27%, rgba(20,19,17,1) 77%)
+            background: linear-gradient(171deg, rgb(19, 3, 250) 14%, rgb(255, 2, 2) 27%, rgba(20,19,17,1) 77%);
       }#fourty{
             font-size: 3em;
             font-family: 'Noto Sans Display', sans-serif;
@@ -58,7 +62,7 @@
             width: 100vw;
             height: 100vh;
             background: rgb(4,87,128);
-            background: linear-gradient(171deg, rgb(250, 102, 3) 14%, rgb(239, 45, 6) 27%, rgba(20,19,17,1) 77%)
+            background: linear-gradient(171deg, rgb(3, 19, 250) 14%, rgb(255, 5, 5) 27%, rgba(20,19,17,1) 77%);
       }#fourty{
             font-size: 6em;
             font-family: 'Noto Sans Display', sans-serif;
