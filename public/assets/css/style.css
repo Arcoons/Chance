@@ -1,0 +1,44 @@
+#container{
+    width: 100vw;
+      height: 100vh;
+    font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction: column;
+    background: url(/assets/img/balotas.jpg);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    padding-left: 35%;
+    padding-right: 35%;
+}
+h1{
+    font-size: 1.3em;
+}
+h1{
+    font-weight: Oswald !important;
+    font-size: 1.75em !important;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 314px;
+    margin-top: 35%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    padding: 8%;
+    background-color: rgba(18, 4, 213, 0.76);
+   
+         
+   }
+label{
+    font-weight: bold !important;
+    font-size: 18px;
+    margin-top: 5%;
+    margin-bottom: 10px;
+    font-family: 'Oswald', sans-serif;
+}
+input{
+    font-family: 'Oswald', sans-serif;
+}
+
